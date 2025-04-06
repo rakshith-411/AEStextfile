@@ -2,7 +2,7 @@
 
 This  project demonstrates how to encrypt and decrypt text files using Python's `cryptography` library and AES-based Fernet encryption.
 # Video Demo
-[![YouTube](https://github.com/user-attachments/assets/f0f939eb-0a27-4fcc-8169-2bc75722cbc1)](https://www.youtube.com/watch?v=qu23scdH_Z8)
+[![youtube](https://github.com/user-attachments/assets/691196d3-d61b-4667-b1c9-cdac08e44c97)](https://www.youtube.com/watch?v=qu23scdH_Z8)
 ## 🚀 Features
 
 - Encrypt a `.txt` file to secure sensitive data
